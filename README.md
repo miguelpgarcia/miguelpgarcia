@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi, I'm Miguel Garcia 👋 👨‍💻 
 
-## Miguel Garcia 🌐 @miguelpgarcia
+### 🌐 @miguelpgarcia
 
 
 ## 📫 How to reach me: mpgarcia.br@gmail.com
