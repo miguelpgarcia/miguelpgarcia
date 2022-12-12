@@ -5,6 +5,14 @@
 
 ## 📫 How to reach me: mpgarcia.br@gmail.com
 
+
+## College works I've done: 
+
+
+
+## Personal works I've done: 
+
+
 <!--
 **miguelpgarcia/miguelpgarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
